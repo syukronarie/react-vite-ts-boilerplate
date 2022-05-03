@@ -1,5 +1,7 @@
 # react-vite-ts-boilerplate
 
+This is a Reactjs Boilerplate using vitejs as compiler and TypeScript
+
 Here you can clone and start your react project using vite as Next Generation Frontend Tooling.
 
 What you can get from this boilerplate 😀🥳
@@ -12,6 +14,8 @@ What you can get from this boilerplate 😀🥳
 
 if you want to scale or has any suggestion for this boilerplate plese fork then ping me by my email
 really welcome and happy for your contribution!
+
+# Getting started
 
 clone this boilerplate
 
