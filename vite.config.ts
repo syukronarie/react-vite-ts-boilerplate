@@ -1,3 +1,4 @@
+import 'dotenv/config'
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 import * as path from 'path'
@@ -21,5 +22,8 @@ export default defineConfig({
 			'@/styles': path.resolve(__dirname, './src/styles'),
 			'@/utils': path.resolve(__dirname, './src/utils')
 		}
+	},
+	define: {
+		'process.env': process.env
 	}
 })
