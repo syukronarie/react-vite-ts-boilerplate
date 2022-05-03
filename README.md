@@ -17,13 +17,13 @@ really welcome and happy for your contribution!
 
 # Getting started
 
-clone this boilerplate
+1. clone this boilerplate
 
 ```
   git clone https://github.com/syukronarie/react-vite-ts-boilerplate
 ```
 
-install packages first
+2. install packages first
 
 using npm
 ```
@@ -35,7 +35,7 @@ using yarn
   yarn
 ```
 
-start development
+3. start development
 
 using npm
 ```
