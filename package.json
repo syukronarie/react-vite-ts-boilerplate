@@ -1,10 +1,22 @@
 {
 	"name": "react-vite-ts-boilerplate",
 	"private": false,
-	"version": "0.0.0",
+	"version": "1.0.0-alpha.1",
 	"main": "src/main.tsx",
-	"repository": "https://github.com/syukronarie/react-vite-ts-boilerplate.git",
-	"author": "syukronarie",
+	"keywords": [
+		"react-vite",
+		"typescript",
+		"fast-development",
+		"well-structured"
+	],
+	"homepage": "https://github.com/syukronarie/react-vite-ts-boilerplate.git",
+	"bugs": "https://github.com/syukronarie/react-vite-ts-boilerplate.git/issues",
+	"repository": {
+		"url": "https://github.com/syukronarie/react-vite-ts-boilerplate.git",
+		"type": "git"
+	},
+	"author": "syukronarie <syukronarie@gmail.com>",
+	"contributors": [],
 	"license": "MIT",
 	"scripts": {
 		"dev": "vite",
